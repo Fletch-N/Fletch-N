@@ -8,4 +8,4 @@ I'm an IT professional with a passion for solving unique and challenging problem
 ### Let's Connect
 - [LinkedIn](https://linkedin.com/in/fletchernichols)
 - [Website](https://it-fletch.com)
-- [Email](mailto:fletcher.w.nichols@gmail.com?subject=GitHub Inquiry:)
+- [Email](mailto:fletcher.w.nichols@gmail.com)
